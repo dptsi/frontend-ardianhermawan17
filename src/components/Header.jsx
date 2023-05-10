@@ -33,14 +33,14 @@ function Header() {
 						<button type='button'>
 							{theme === 'light' ? (
 								<img
-									src='https://www.dicoding.com/blog/wp-content/uploads/2014/12/dicoding-header-logo.png'
+									src='https://www.its.ac.id/wp-content/uploads/2019/02/Logo-its-biru-transparan-300x193.png'
 									width={120}
 									height={50}
 									alt='Float UI logo'
 								/>
 							) : (
 								<img
-									src='https://www.dicoding.id/wp-content/uploads/2020/07/Logo-Dicoding-Putih.png'
+									src='https://katamata.files.wordpress.com/2009/01/logo-its-putih-transparan.png'
 									width={120}
 									height={50}
 									alt='Float UI logo'
